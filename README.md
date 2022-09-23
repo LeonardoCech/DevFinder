@@ -1,16 +1,10 @@
-# startup_namer
+# DevFinder
 
-A new Flutter project.
+Um projeto em Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto é executado utilizando o framework Flutter, juntamente com a linguagem Dart.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sobre o projeto:
+A ideia do DevFinder é um aplicativo para buscar desenvolvedores que estão a procura de emprego. Foi desenvolvido para a unidade curricular de Desenvolvimento de Dispositivos Móveis, com a Profa. Tassiana Kautzmann, no terceiro semeste da graduação de Engenharia de Software, na Universidade Católica de Santa Catarina.
